@@ -1,3 +1,0 @@
-/home/osami/Документы/code/lern/c/osami/CMakeFiles/pacman.dir
-/home/osami/Документы/code/lern/c/osami/CMakeFiles/edit_cache.dir
-/home/osami/Документы/code/lern/c/osami/CMakeFiles/rebuild_cache.dir

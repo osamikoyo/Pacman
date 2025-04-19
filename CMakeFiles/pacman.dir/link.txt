@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/pacman.dir/src/main.c.o -o pacman 
